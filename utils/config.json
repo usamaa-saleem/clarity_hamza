@@ -1,0 +1,27 @@
+{
+    "Upscale":{
+        "workflow_file": "workflow.json",
+        "prefix_prompt": "HD quality, ",
+        "postfix_prompt": ", masterpiece, best quality, highres",
+        "seed_nodes": [],
+        "noise_seed_nodes": [
+            "45"
+        ],
+        "prompt_nodes": [
+            "83"
+        ],
+        "negative_prompt_nodes": [
+            "7"
+        ],
+        "image_input_nodes": [
+            "17"
+        ],
+        "strength_nodes": [
+            "19"
+        ],
+        "denoise_nodes": [
+            "45"
+        ],
+        "breaking_steps": 20
+    }
+}
